@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">fragmentoStaticosCamposLopez</string>
+    <string name="text_fragmento_1">Este es el fragmento 1 </string>
+    <string name="text_indicacion_campo">Por favor digite un texto breve</string>
+    <string name="text_placeholder">digite un texto aqui</string>
+    <string name="text_btn_enviar">Enviar datos al fragmento</string>
+    <string name="text_fragmento_2">Este es el fragmento recibido </string>
+
 </resources>
